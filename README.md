@@ -1,6 +1,6 @@
 # 👋 Welcome, I’m ambrose
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&color=0FFF00&center=true&vCenter=true&lines=Backend+Developer+⚡;cyber+security+networking+enthusiast+🔐🚀)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&color=0FFF00&center=true&vCenter=true&linesBackend Developer+focused on Cybersecurity and Network Infrastructure.🔐🚀)
 
 ---
 
