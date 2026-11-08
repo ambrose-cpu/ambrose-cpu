@@ -1,12 +1,11 @@
 # 👋 Welcome, I’m ambrose
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&color=0FFF00&center=true&vCenter=true&lines=Backend+Engineerer+⚡;cyber+security+Engineer+🔐🚀)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&color=0FFF00&center=true&vCenter=true&lines=Backend+Developer+⚡;cyber+security+networking+enthusiast+🔐🚀)
 
 ---
 
 ### 🌟 About Me
-I'm **Ambrose**, a **backend developer** with a passion for creating interactive and efficient web applications.  
-I enjoy learning new technologies and turning ideas into reality through clean and scalable code.
+I am a Backend Developer, Networking Engineer, and Cybersecurity Enthusiast passionate about building reliable applications, understanding network infrastructure, and securing digital systems. I enjoy solving technical challenges, exploring emerging technologies, and continuously developing my skills through practical projects and hands-on learning.
 
 ---
 
